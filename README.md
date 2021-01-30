@@ -18,5 +18,7 @@ if you wanna dm me on discord, here: Voidy#4200
 
 pretty..not good
 
+just saying i have private repos with other langs
+
 # Nothing else
 im too lazy bye
