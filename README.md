@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to the kool kids
 
-<!--
-**VoidyCD/VoidyCD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## We got my stats:
+[![Voidy's Sick GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidyCD)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## pretty bad
+
+# We got my *what i like to do*
+
+i am a chill dude who likes to learn all sorts of things, currently just learning js and rust, and its been pretty epik
+
+if you wanna dm me on discord, here: Voidy#4200
+
+# Nothing else
+im too lazy bye
