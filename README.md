@@ -16,14 +16,14 @@ if you wanna dm me on discord, here: Voidy#4200
 # We got what i like to code in
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCD)](https://github.com/anuraghazra/github-readme-stats)
 
 pretty..not good
 
 just saying i have private repos with other langs
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCD)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Nothing else
 im too lazy bye
