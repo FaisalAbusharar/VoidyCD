@@ -23,8 +23,5 @@ pretty..not good
 just saying i have private repos with other langs
 
 
-# Weak Time Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VoidyCD)](https://github.com/anuraghazra/github-readme-stats)
-
 # Nothing else
 im too lazy bye
