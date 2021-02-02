@@ -2,7 +2,7 @@
 
 
 ## We got my stats:
-![Voidy's Sick GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidyCD&show_icons=true&theme=merko)
+![Voidy's Sick GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidyCD&show_icons=true&theme=synthwave)
 
 ## pretty bad
 
@@ -15,7 +15,7 @@ if you wanna dm me on discord, here: Voidy#4200
 
 # We got what i like to code in
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCD&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCD&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 pretty..not good
 
