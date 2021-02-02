@@ -23,5 +23,7 @@ pretty..not good
 just saying i have private repos with other langs
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCD)](https://github.com/anuraghazra/github-readme-stats)
+
 # Nothing else
 im too lazy bye
