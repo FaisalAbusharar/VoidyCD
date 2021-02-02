@@ -2,7 +2,7 @@
 
 
 ## We got my stats:
-![Voidy's Sick GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidyCD&show_icons=true&theme=dark)
+![Voidy's Sick GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidyCD&show_icons=true&theme=radical)
 
 ## pretty bad
 
