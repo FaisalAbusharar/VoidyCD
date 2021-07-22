@@ -1,4 +1,4 @@
-# Welcome to the kool kids
+# Welcome to the kool kids Klub
 
 
 ## We got my stats:
