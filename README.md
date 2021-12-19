@@ -1,29 +1,28 @@
-# Welcome to the kool kids Klub
-
-ps: dont code much anymore
-
-## We got my stats:
-![Voidy's Sick GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidyCD&show_icons=true&theme=tokyonight)
-
-## pretty bad
-
-# We got my *what i like to do*
-
-i am a chill dude who likes to learn all sorts of things, currently just learning js and rust, and its been pretty epik
-
-if you wanna dm me on discord, here: Voidy#4200
+voidy@ubuntu:~$ whoami --human-readable
 
 
-# We got what i like to code in
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidyCD&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-pretty..not good
-
-just saying i have private repos with other langs
-
+██╗░░░██╗░█████╗░██╗██████╗░██╗░░░██╗
+██║░░░██║██╔══██╗██║██╔══██╗╚██╗░██╔╝
+╚██╗░██╔╝██║░░██║██║██║░░██║░╚████╔╝░
+░╚████╔╝░██║░░██║██║██║░░██║░░╚██╔╝░░
+░░╚██╔╝░░╚█████╔╝██║██████╔╝░░░██║░░░
+░░░╚═╝░░░░╚════╝░╚═╝╚═════╝░░░░╚═╝░░░
 
 
+#include <myself>
+#include <bool>
 
-# Nothing else
-im too lazy bye
+int age = 14;  
+char *birthday[] = "Decemeber 20th";
+
+char *accomplishments[3][11][];
+acomplishments[0] = "Created own (basic) programming language";
+acomplishments[1] = "Gets to work with friends on projects";
+acomplishments[2] = "Slowly building a team of developers (Zeno INC)";
+
+bool works_for_inc = true;
+char * what_inc[] = "Zeno INC.";
+
+char * goal[] = "be gud";
+
+char * dream_job[] = "still not decided...";
