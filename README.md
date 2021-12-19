@@ -20,7 +20,7 @@ voidy@ubuntu:~$ whoami --human-readable
 #include <bool>
 
 int age = 14;  
-char *birthday[] = "Decemeber 20th";
+char *birthday[] = "July 17th";
 
 char *accomplishments[3][11][];
 acomplishments[0] = "Created own (basic) programming language";
@@ -34,3 +34,4 @@ char * goal[] = "be gud";
 
 char * dream_job[] = "still not decided...";
 ```
+[Zeno INC](https://github.com/ZenoINC)
